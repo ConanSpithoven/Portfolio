@@ -17,8 +17,11 @@
 </ul>
 
 ## Carrière:
+<ul>
+<li>sep 2017 - heden:       werknemer bij Recruit a Student.</li>
 <li>sep 2015 - juni 2016:		Vakkenvuller bij de PLUS supermarkt</li>
 <li>sep 2011 - nov 2013:		Orchideeën stokker bij  Phalaenova.</li>
+</ul>
 
 ## School carrière:
 <ul>
